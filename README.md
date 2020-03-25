@@ -5,8 +5,13 @@
 
 
 python=3.6.8
+
 pytorch=1.4.0
+
 jupyter=1.0.0
+
 scikit-learn=0.22.2
+
 pandas=1.0.3
+
 openbabel=2.4.1
