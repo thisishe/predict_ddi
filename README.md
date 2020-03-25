@@ -1,8 +1,14 @@
 # Novel deep learning model for more accurate prediction of drug-drug interaction effects
+We introduce a deep learning model for prediction of drug-drug interaction effects accurately.
 
-## https://doi.org/10.1186/s12859-019-3013-0
+This model is composed of three autoencoders and a deep feed-forward neural network.
+
+The features used for training the model are structural similarity profile (SSP), target gene similarity profile (TSP) and gene ontology similarity profile (GSP).
+
+For more details, please refer to [here](https://doi.org/10.1186/s12859-019-3013-0)
 
 
+### Python library requirements
 
 python=3.6.8
 
