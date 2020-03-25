@@ -1,0 +1,14 @@
+{
+"input_size": 3194, 
+"output_size": 106, 
+"code_size": 200, 
+"AE_lr": 0.001, 
+"DNN_lr": 0.0001, 
+"drop_rate": 0.3, 
+"threshold": 0.5, 
+"epoch": 850, 
+"n_repeats": 5, 
+"n_splits": 5,
+"patience": 15,
+"save_path": "../savepoints/"
+}
