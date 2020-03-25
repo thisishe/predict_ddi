@@ -15,3 +15,14 @@ scikit-learn=0.22.2
 pandas=1.0.3
 
 openbabel=2.4.1
+
+
+### Example
+		cd src
+		python run.py
+		
+		
+* model_evaluation.ipynb : calculation of accuracy, macro recall, macro precision, micro recall, micro precision of trained model.
+* structural_similarity_example.ipynb : example of computing structural similarity using openbabel library.
+
+#### If you need trained model, visit [here](https://bitbucket.org/thisishe/drug-drug_interaction/src/master/)
