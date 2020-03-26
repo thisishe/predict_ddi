@@ -28,7 +28,7 @@ openbabel=2.4.1
 		python run.py
 		
 		
-* model_evaluation.ipynb : calculation of accuracy, macro recall, macro precision, micro recall, micro precision of trained model.
-* structural_similarity_example.ipynb : example of computing structural similarity using openbabel library.
+* model_evaluation.ipynb : Calculation of accuracy, macro recall, macro precision, micro recall, micro precision of trained model.
+* structural_similarity_example.ipynb : Example of computing structural similarity using openbabel library. (trained model is necessary for implementation)
 
 #### If you need trained model, visit [here](https://bitbucket.org/thisishe/drug-drug_interaction/src/master/)
