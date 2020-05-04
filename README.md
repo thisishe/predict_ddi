@@ -24,7 +24,7 @@ openbabel=2.4.1
 
 
 ### Example
-		cd src
+		cd predict_ddi/src
 		python run.py
 		
 		
